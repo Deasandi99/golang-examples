@@ -29,8 +29,7 @@ sudo apt-get install golang
 or  
 [compile it yourself](https://golang.org/doc/install/source)  
 
-## examples
-
+## examples 
 The examples are divided into three levels of difficulty. [beginner](https://github.com/SimonWaldherr/golang-examples#beginner) contains very easy examples, starting with **Hello World** but also containing a few easy algorithms. [advanced](https://github.com/SimonWaldherr/golang-examples#advanced) uses more complicated features of golang. [expert](https://github.com/SimonWaldherr/golang-examples#expert) contains applications like telnet-clients or http-server (even with SSL).  
 If you want even more golang examples, you can take a look at my other go repositories at github:  
 
@@ -452,4 +451,4 @@ Under the following terms:
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.  
 
 **No additional restrictions** — You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
-
+**Di-fork oleh Dea Sandi Pratama tanggal 20 Februari 2016
